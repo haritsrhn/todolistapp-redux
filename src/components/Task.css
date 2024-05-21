@@ -79,10 +79,25 @@
   color: white;
   border: none;
   border-radius: 5px;
+  margin-left: 10px;
   padding: 5px 10px;
   cursor: pointer;
 }
 
 .delete-button:hover {
   background: #c82333;
+}
+
+.update-button {
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-left: auto;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.update-button:hover {
+  background: #0078a0;
 }
